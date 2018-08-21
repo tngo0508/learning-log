@@ -8,6 +8,19 @@ about each topic.
 You can visit the Deployed project at https://tngo-learning-log.herokuapp.com/
 
 ### Heroku
-![heroku-dashboard]()
+![heroku-dashboard](https://github.com/tngo0508/learning-log/blob/master/images/heroku-dashboard.png)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+### Home page
+![homepage](https://github.com/tngo0508/learning-log/blob/master/images/homepage.png)
+
+### Register page
+![registerpage](https://github.com/tngo0508/learning-log/blob/master/images/registerpage.png)
+
+### Topics page
+![Topics](https://github.com/tngo0508/learning-log/blob/master/images/topicspage.png)
+
+### Edit entry
+![edit_entry](https://github.com/tngo0508/learning-log/blob/master/images/edit-entry.png)
+
+### Entry page
+![edit_page](https://github.com/tngo0508/learning-log/blob/master/images/entrypage.png)
